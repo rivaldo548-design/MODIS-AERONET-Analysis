@@ -1,0 +1,8 @@
+numpy
+matplotlib
+cartopy
+pyproj
+shapely
+requests
+xarray
+netCDF4
